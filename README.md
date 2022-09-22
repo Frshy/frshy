@@ -1,5 +1,5 @@
 ### Hi there 👋
-a kid who likes to code
+idk for now
 
 <!--
 **Frshy/frshy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
